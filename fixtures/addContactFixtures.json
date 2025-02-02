@@ -1,0 +1,44 @@
+{
+  "validAddition": {
+    "FirstName": "Ram",
+    "LastName": "Bahadur",
+    "DOB": "2002-10-22",
+    "Email": "ram@e.com",
+    "Phone": "9876543210",
+    "streetAddr1": "streetAddr1",
+    "streetAddr2": "streetAddr2",
+    "City": "Kathmandu",
+    "State": "Bagmati",
+    "PostalCode": "1007",
+    "Country": "Nepal"
+  },
+
+  "emptyAddition": {
+    "FirstName": "",
+    "LastName": "",
+    "DOB": "",
+    "Email": "",
+    "Phone": "",
+    "streetAddr1": "",
+    "streetAddr2": "",
+    "City": "",
+    "State": "",
+    "PostalCode": "",
+    "Country": ""
+  },
+
+  "updateContact": {
+    "FirstName": "Hari",
+    "LastName": "Bahadur",
+    "DOB": "2002-10-22",
+    "Email": "hari@e.com",
+    "Phone": "9876543211",
+    "streetAddr1": "streetAddr1",
+    "streetAddr2": "streetAddr2",
+    "City": "Kathmandu",
+    "State": "Bagmati",
+    "PostalCode": "1007",
+    "Country": "Nepal"
+  }
+  
+}
